@@ -19,3 +19,5 @@ USER INSTRUCTIONS: Puzzle is won by lighting up all squares with bubls, while ma
 - Check Solution Button is also entierly non function when pressing Check Solution, debugging shows that the button press is detected just the system does not output the fact that values don't output
 - Despite being programmed in as variables, Windowsize and margins (displacement) can not rescaled without breaking the abilitiy to click on Puzzle Squares
 - Currently the puzzle is very slightly offset, so one can click in one square, but if close enough to margins will result in left click being applied to square next to it. This is worsened when Winowsize and or Displacement variables are changed. Also clear button has to be essentially clicked on, or clicked below for it to work properly
+
+Program only tested in blue j, but will probably still work. Probably won't add but I guess we'll see
